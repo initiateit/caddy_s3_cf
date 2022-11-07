@@ -1,5 +1,5 @@
 # caddy_s3_cf
-This repo contains dockerfiles for Caddy with s3 module and Cloudflare DNS challenge module built in. I host this on github to use the actions feature to automatically build the dockerfile when I am notified of upstream changes.
+This repo contains dockerfiles for Caddy with the s3 module and Cloudflare DNS challenge module built in. I host this on github to use the actions feature to automatically build the dockerfile when I am notified of upstream changes.
 
 ## What Is It?
 This is Caddy V2 Latest (https://hub.docker.com/_/caddy) with caddy-S3-Proxy (https://github.com/lindenlab/caddy-s3-proxy) as well as Cloudflare (https://hub.docker.com/r/cloudflare/cloudflared) plugins enabled.
