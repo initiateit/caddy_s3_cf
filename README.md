@@ -25,4 +25,3 @@ Then either reference this with the build tag in your docker-compose.yaml ie
       build:
            context: .
            dockerfile: Dockerfile
-Or deploy this to your own docker repository.
